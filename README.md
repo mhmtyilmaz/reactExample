@@ -5,6 +5,6 @@
 
 
 **Run Project**
-Do `npm install`
-Do `npm start`
-Open `http://localhost:8080/`
+* Do `npm install`
+* Do `npm start`
+* Open `http://localhost:8080/`
